@@ -14,7 +14,7 @@ axios.defaults.headers.common[ 'Content-Type' ] = 'application/json;charset=UTF-
 axios.defaults.headers.common[ 'Accept' ] = 'application/json';
 
   
-
+//我添加了注释
 
 /* eslint-disable no-new */
 new Vue({

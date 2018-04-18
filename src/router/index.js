@@ -10,7 +10,7 @@ import Product_list from '@/pages/product/Product_list'
 
 import Header from '@/components/Header'
 Vue.use(Router)
-
+//我添加了注释
 export default new Router({
 	routes: [{
 			path: '/',
